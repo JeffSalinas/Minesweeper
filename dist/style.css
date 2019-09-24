@@ -18,3 +18,9 @@
   margin: 0px;
   padding: 0px;
 }
+
+.number {
+  z-index: 1;
+  position: absolute;
+  text-align: center;
+}
