@@ -1,0 +1,20 @@
+#gameboard {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  height: 250px;
+  width: 250px;
+  display: flex;
+  border: 1px solid black;
+}
+
+.rows{
+  height: 25px;
+}
+
+.spaces {
+  height: 25px;
+  width: 25px;
+  margin: 0px;
+  padding: 0px;
+}
